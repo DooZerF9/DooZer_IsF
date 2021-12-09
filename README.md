@@ -1,2 +1,6 @@
 # DooZer_IsF 
- Type Javascript: in search bar while in blooket. 
+ Copy then type Javascript: in search bar while in blooket then paste.
+ 
+ 
+ Happy holladays!☃ 
+ Use thes hacks to flex or cheat. 💯
