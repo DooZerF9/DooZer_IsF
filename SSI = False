@@ -5,7 +5,7 @@
  <title> Second Demo Web Page </title>
  </head>
 
- <body bgcolor="lavenderblush">
+ <body bgcolor="LimeGreen">
  <!-- the tag above adds a background color to the web page -->
  <h1 align="center"> Some tags illustrated </h1>
  <h2> Image </h2>
@@ -18,7 +18,7 @@
  <h2> Horizontal Line </h2>
 <p> <hr color="green" width=75%> </p>
  <h2> Font </h2>
- <p> &nbsp <font color="purple"> There are other attributes you can add to the font tag - such as
+ <p> &nbsp <font color="Black"> There are other attributes you can add to the font tag - such as
 size and font </font> </p>
  <h2> Bold or Strong, Underline and Italicize or emphasize</h2>
 <p> The <strong> Best </strong> part about <u>HTML</u> is how quickly you can <em> create </em>
@@ -28,7 +28,7 @@ size and font </font> </p>
  text. Here is the how the <p> paragraph tag spacing works. </p>
  <h2> table tags</h2>
  <p>
-<table border="1" width="60%">
+<table border="1" width="65%">
  <tr> <!-- first row -->
  <td width="25%"> first cell </td>
  <td witth="75%"> second cell </td>
